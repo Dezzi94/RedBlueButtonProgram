@@ -1,0 +1,20 @@
+C:\Users\techi\AppData\Local\Temporary Projects\Simple Program\bin\Debug\Simple Program.exe.config
+C:\Users\techi\Documents\Visual Studio 2013\Projects\Simple Program\Simple Program\obj\Debug\Simple Program.csprojResolveAssemblyReference.cache
+C:\Users\techi\Documents\Visual Studio 2013\Projects\Simple Program\Simple Program\obj\Debug\Simple_Program.Properties.Resources.resources
+C:\Users\techi\Documents\Visual Studio 2013\Projects\Simple Program\Simple Program\obj\Debug\Simple Program.csproj.GenerateResource.Cache
+C:\Users\techi\Documents\Visual Studio 2013\Projects\Simple Program\Simple Program\bin\Debug\Simple Buttons Program.exe.config
+C:\Users\techi\Documents\Visual Studio 2013\Projects\Simple Program\Simple Program\bin\Debug\Simple Buttons Program.exe
+C:\Users\techi\Documents\Visual Studio 2013\Projects\Simple Program\Simple Program\bin\Debug\Simple Buttons Program.pdb
+C:\Users\techi\Documents\Visual Studio 2013\Projects\Simple Program\Simple Program\obj\Debug\Simple_Program.frmButtonsAndMessageboxes.resources
+C:\Users\techi\Documents\Visual Studio 2013\Projects\Simple Program\Simple Program\obj\Debug\Simple Buttons Program.exe
+C:\Users\techi\Documents\Visual Studio 2013\Projects\Simple Program\Simple Program\obj\Debug\Simple Buttons Program.pdb
+E:\Documents\C# programs\Simple Program\Simple Program\bin\Debug\Simple Buttons Program.exe.config
+E:\Documents\C# programs\Simple Program\Simple Program\bin\Debug\Simple Buttons Program.exe
+E:\Documents\C# programs\Simple Program\Simple Program\bin\Debug\Simple Buttons Program.pdb
+E:\Documents\C# programs\Simple Program\Simple Program\obj\Debug\Simple Program.csprojResolveAssemblyReference.cache
+E:\Documents\C# programs\Simple Program\Simple Program\obj\Debug\Simple_Program.frmButtonsAndMessageboxes.resources
+E:\Documents\C# programs\Simple Program\Simple Program\obj\Debug\Simple_Program.Properties.Resources.resources
+E:\Documents\C# programs\Simple Program\Simple Program\obj\Debug\Simple Program.csproj.GenerateResource.Cache
+E:\Documents\C# programs\Simple Program\Simple Program\obj\Debug\Simple Program.csproj.CoreCompileInputs.cache
+E:\Documents\C# programs\Simple Program\Simple Program\obj\Debug\Simple Buttons Program.exe
+E:\Documents\C# programs\Simple Program\Simple Program\obj\Debug\Simple Buttons Program.pdb
